@@ -1,0 +1,84 @@
+C:\Users\win 10\Desktop\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\bin\Debug\SmarSystemMarket.exe.config
+C:\Users\win 10\Desktop\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\bin\Debug\SmarSystemMarket.exe
+C:\Users\win 10\Desktop\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\bin\Debug\SmarSystemMarket.pdb
+C:\Users\win 10\Desktop\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.csprojAssemblyReference.cache
+C:\Users\win 10\Desktop\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.Properties.Resources.resources
+C:\Users\win 10\Desktop\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.csproj.GenerateResource.cache
+C:\Users\win 10\Desktop\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.csproj.CoreCompileInputs.cache
+C:\Users\win 10\Desktop\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.exe
+C:\Users\win 10\Desktop\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.pdb
+C:\Users\win 10\Desktop\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\bin\Debug\FlatButton.dll
+C:\Users\win 10\Desktop\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\bin\Debug\JDragControl.dll
+C:\Users\win 10\Desktop\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\bin\Debug\JGradient Panel.dll
+C:\Users\win 10\Desktop\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\bin\Debug\JTextBox2.dll
+C:\Users\win 10\Desktop\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\bin\Debug\JThinButton.dll
+C:\Users\win 10\Desktop\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.login.resources
+C:\Users\win 10\Desktop\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.csproj.CopyComplete
+C:\Users\win 10\Desktop\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\bin\Debug\JTextBox.dll
+C:\Users\win 10\Desktop\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\bin\Debug\JMaterialTextbox.dll
+C:\Users\win 10\Desktop\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\bin\Debug\JMetroTextBox.dll
+C:\Users\win 10\Desktop\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\bin\Debug\JImageButton.dll
+C:\Users\win 10\Desktop\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.Register.resources
+C:\Users\win 10\Desktop\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.visa_card.resources
+C:\Users\win 10\Desktop\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.Menahel.resources
+C:\Users\win 10\Desktop\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.homeform.resources
+C:\Users\win 10\Desktop\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.ListCategory.resources
+C:\Users\win 10\Desktop\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.ListStaff.resources
+C:\Users\win 10\Desktop\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.ReportFilterStock.resources
+C:\Users\win 10\Desktop\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.AddEditProduct.resources
+C:\Users\win 10\Desktop\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.AddEditProductInStock.resources
+C:\Users\win 10\Desktop\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.BuyingForm.resources
+C:\Users\win 10\Desktop\ברויקט גמר\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\bin\Debug\SmarSystemMarket.exe.config
+C:\Users\win 10\Desktop\ברויקט גמר\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\bin\Debug\SmarSystemMarket.exe
+C:\Users\win 10\Desktop\ברויקט גמר\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\bin\Debug\SmarSystemMarket.pdb
+C:\Users\win 10\Desktop\ברויקט גמר\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\bin\Debug\FlatButton.dll
+C:\Users\win 10\Desktop\ברויקט גמר\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\bin\Debug\JDragControl.dll
+C:\Users\win 10\Desktop\ברויקט גמר\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\bin\Debug\JGradient Panel.dll
+C:\Users\win 10\Desktop\ברויקט גמר\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\bin\Debug\JImageButton.dll
+C:\Users\win 10\Desktop\ברויקט גמר\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\bin\Debug\JMaterialTextbox.dll
+C:\Users\win 10\Desktop\ברויקט גמר\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\bin\Debug\JMetroTextBox.dll
+C:\Users\win 10\Desktop\ברויקט גמר\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\bin\Debug\JTextBox.dll
+C:\Users\win 10\Desktop\ברויקט גמר\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\bin\Debug\JTextBox2.dll
+C:\Users\win 10\Desktop\ברויקט גמר\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\bin\Debug\JThinButton.dll
+C:\Users\win 10\Desktop\ברויקט גמר\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.csprojAssemblyReference.cache
+C:\Users\win 10\Desktop\ברויקט גמר\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.AddEditProduct.resources
+C:\Users\win 10\Desktop\ברויקט גמר\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.AddEditProductInStock.resources
+C:\Users\win 10\Desktop\ברויקט גמר\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.BuyingForm.resources
+C:\Users\win 10\Desktop\ברויקט גמר\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.homeform.resources
+C:\Users\win 10\Desktop\ברויקט גמר\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.ListCategory.resources
+C:\Users\win 10\Desktop\ברויקט גמר\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.ListStaff.resources
+C:\Users\win 10\Desktop\ברויקט גמר\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.Menahel.resources
+C:\Users\win 10\Desktop\ברויקט גמר\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.register.resources
+C:\Users\win 10\Desktop\ברויקט גמר\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.login.resources
+C:\Users\win 10\Desktop\ברויקט גמר\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.Properties.Resources.resources
+C:\Users\win 10\Desktop\ברויקט גמר\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.ReportFilterStock.resources
+C:\Users\win 10\Desktop\ברויקט גמר\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.visa_card.resources
+C:\Users\win 10\Desktop\ברויקט גמר\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.csproj.GenerateResource.cache
+C:\Users\win 10\Desktop\ברויקט גמר\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.csproj.CoreCompileInputs.cache
+C:\Users\win 10\Desktop\ברויקט גמר\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.csproj.CopyComplete
+C:\Users\win 10\Desktop\ברויקט גמר\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.exe
+C:\Users\win 10\Desktop\ברויקט גמר\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.pdb
+C:\Users\win 10\Desktop\ברויקט גמר\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.Cart.resources
+F:\SmarSystemMarket\SmarSystemMarket\bin\Debug\SmarSystemMarket.exe.config
+F:\SmarSystemMarket\SmarSystemMarket\bin\Debug\SmarSystemMarket.exe
+F:\SmarSystemMarket\SmarSystemMarket\bin\Debug\SmarSystemMarket.pdb
+F:\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.csprojAssemblyReference.cache
+F:\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.AddEditProduct.resources
+F:\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.AddEditProductInStock.resources
+F:\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.BuyingForm.resources
+F:\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.homeform.resources
+F:\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.Cart.resources
+F:\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.ListCategory.resources
+F:\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.ListStaff.resources
+F:\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.Menahel.resources
+F:\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.register.resources
+F:\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.login.resources
+F:\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.Properties.Resources.resources
+F:\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.ReportFilterStock.resources
+F:\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.visa_card.resources
+F:\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.csproj.GenerateResource.cache
+F:\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.csproj.CoreCompileInputs.cache
+F:\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.csproj.CopyComplete
+F:\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.exe
+F:\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.pdb
+C:\Users\win 10\Desktop\ברויקט גמר\SmarSystemMarket\SmarSystemMarket\obj\Debug\SmarSystemMarket.Cart.resources
